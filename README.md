@@ -6,11 +6,12 @@ For this purpose, BTC check can be done regularly.
 
 **Tech Stack**
 
-Java11<br />
-Gradle 5<br />
+Java 11<br />
+Maven 3.8<br />
 Spring Boot 2<br />
 Docker<br />
-H2REST Web Services<br />
+H2<br />
+REST Web Services<br />
 
 
 **Installation**
